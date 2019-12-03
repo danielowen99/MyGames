@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Prototype 5",
+"dataUrl": "Prototype 5_Danielowen.data.unityweb",
+"wasmCodeUrl": "Prototype 5_Danielowen.wasm.code.unityweb",
+"wasmFrameworkUrl": "Prototype 5_Danielowen.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
